@@ -13,14 +13,14 @@ A simple command-line tool to convert DOCX files to Markdown format.
 ### One-line install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<your-username>/doc2md/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/navidgs/doc2md/main/install.sh | bash
 ```
 
 ### Manual installation
 
 1. Download the script:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<your-username>/doc2md/main/doc2md -o ~/bin/doc2md
+curl -fsSL https://raw.githubusercontent.com/navidgs/doc2md/main/doc2md -o ~/bin/doc2md
 chmod +x ~/bin/doc2md
 ```
 
