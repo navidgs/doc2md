@@ -2,7 +2,7 @@
 
 set -e
 
-REPO_URL="https://raw.githubusercontent.com/<your-username>/doc2md/main"
+REPO_URL="https://raw.githubusercontent.com/navidgs/doc2md/main"
 INSTALL_DIR="$HOME/bin"
 
 echo "📦 Installing doc2md..."
